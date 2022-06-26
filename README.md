@@ -10,8 +10,8 @@
  <h2>Our teammates</h2>
  <li>Brajkishor Singh Tomar</li>
  <li>Suresh Jungade</li>
- <li>Ashutosh Vishwakarma</li>
  <li>Gaurav Jaiswal</li>
+ <li>Ashutosh Vishwakarma</li>
  <li>Yash Gupta</li>
  <li>Arjun Rao</li>
 <br><br>
